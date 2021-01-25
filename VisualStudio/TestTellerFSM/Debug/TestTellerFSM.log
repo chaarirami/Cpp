@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: Verweis auf nicht aufgel÷stes externes Symbol ""public: int __thiscall Teller::getPancake(void)" (?getPancake@Teller@@QAEHXZ)" in Funktion ""private: virtual void __thiscall TS1_TC1_Test::TestBody(void)" (?TestBody@TS1_TC1_Test@@EAEXXZ)".
+test.obj : error LNK2019: Verweis auf nicht aufgel÷stes externes Symbol ""public: void __thiscall Teller::setPancake(int)" (?setPancake@Teller@@QAEXH@Z)" in Funktion ""private: virtual void __thiscall TS1_TC1_Test::TestBody(void)" (?TestBody@TS1_TC1_Test@@EAEXXZ)".
+test.obj : error LNK2019: Verweis auf nicht aufgel÷stes externes Symbol ""public: __thiscall Teller::Teller(void)" (??0Teller@@QAE@XZ)" in Funktion ""private: virtual void __thiscall TS1_TC1_Test::TestBody(void)" (?TestBody@TS1_TC1_Test@@EAEXXZ)".
+test.obj : error LNK2019: Verweis auf nicht aufgel÷stes externes Symbol ""public: __thiscall Teller::~Teller(void)" (??1Teller@@QAE@XZ)" in Funktion ""private: virtual void __thiscall TS1_TC1_Test::TestBody(void)" (?TestBody@TS1_TC1_Test@@EAEXXZ)".
+test.obj : error LNK2019: Verweis auf nicht aufgel÷stes externes Symbol ""public: __thiscall FSMTeller::FSMTeller(class Teller)" (??0FSMTeller@@QAE@VTeller@@@Z)" in Funktion ""private: virtual void __thiscall TS1_TC1_Test::TestBody(void)" (?TestBody@TS1_TC1_Test@@EAEXXZ)".
+test.obj : error LNK2019: Verweis auf nicht aufgel÷stes externes Symbol ""public: __thiscall FSMTeller::~FSMTeller(void)" (??1FSMTeller@@QAE@XZ)" in Funktion ""private: virtual void __thiscall TS1_TC1_Test::TestBody(void)" (?TestBody@TS1_TC1_Test@@EAEXXZ)".
+C:\PR2\VisualStudio\TellerFSM\Debug\TestTellerFSM.exe : fatal error LNK1120: 6 nicht aufgel÷ste Externe
